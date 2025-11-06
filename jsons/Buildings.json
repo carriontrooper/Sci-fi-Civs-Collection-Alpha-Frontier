@@ -83,7 +83,7 @@
 		"happiness": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["New [Military] units start with [8] Experience [in this city]", "[-5]% Culture cost of natural border growth [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [8] XP [in this city]", "[-5]% Culture cost of natural border growth [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Hab-Domes"
 	},
 {
@@ -93,8 +93,9 @@
 		"culture": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 50,
-		"uniques": ["Remove extra unhappiness from annexed cities", "Provides [1] [Digital Storage Space]", "Destroyed when the city is captured"],
+		"uniques": ["Removes extra unhappiness from annexed cities", "Provides [1] [Digital Storage Space]", "Destroyed when the city is captured"],
 		"requiredTech": "Pioneer Administration"
 	},
 
 ]
+
